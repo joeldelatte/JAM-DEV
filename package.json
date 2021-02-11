@@ -34,7 +34,7 @@
 		"mongodb": "^3.6.3",
 		"mongoose": "^5.10.14",
 		"next": "^10.0.1",
-		"next-auth": "^3.1.0",
+		"next-auth": "^3.3.0",
 		"password-validator": "^5.1.1",
 		"react": "^16.14.0",
 		"react-dom": "^16.14.0",
